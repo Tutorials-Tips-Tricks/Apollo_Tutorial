@@ -1,2 +1,2 @@
 # Apollo_Tutorial
-Apollo—a flexible GraphQL client for React and React Native apps—makes it easy to fetch the data you need for your component. In this course, learn how to get started with Apollo. Emmanuel Henri explains how Apollo works with React and React Native, and demonstrates how to set up Apollo, finalize the Apollo server, and connect it to the React client. He then shows how to perform GraphQL queries with Apollo, and how to work with subscriptions.
+Apollo—a flexible GraphQL client for React and React Native apps—makes it easy to fetch the data you need for your component. 
